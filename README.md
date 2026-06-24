@@ -13,4 +13,4 @@ How to run:
 4. kubectl logs log-output-<something something>
 
 Exercises as releases:
-[1.1] (https://github.com/susulmtnn/KubernetesSubmissions/releases/tag/1.1)
+[1.1](https://github.com/susulmtnn/KubernetesSubmissions/releases/tag/1.1)
