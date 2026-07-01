@@ -15,4 +15,4 @@ How to run:
 Exercises as releases:
 [1.1](https://github.com/susulmtnn/KubernetesSubmissions/releases/tag/1.1)
 
-[1.2](https://github.com/susulmtnn/KubernetesSubmissions/releases/tag/v1.2)
+[1.2](https://github.com/susulmtnn/KubernetesSubmissions/tree/1.2)
